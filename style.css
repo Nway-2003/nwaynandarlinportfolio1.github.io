@@ -274,6 +274,7 @@ section {
  /*--------------------------------------------------------------
 # Resume
 --------------------------------------------------------------*/
+/*
 .resume .resume-title {
   font-size: 26px;
   font-weight: 400;
@@ -331,6 +332,7 @@ section {
   background: #fff;
   border: 2px solid #c33764;
 }
+*/
 
 /*--------------------------------------------------------------
 # Video
@@ -413,4 +415,47 @@ section {
 #footer {
   background-color: #808080;
   text-align: center;
+}
+
+
+
+
+
+#about .btn-about {
+  font-family: "Raleway", sans-serif;
+  text-transform: uppercase;
+  font-weight: 600;
+  font-size: 12px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 12px 40px;
+  border-radius: 50px;
+  transition: 0.5s;
+  margin-top: 30px;
+  color: #fff;
+  background: #c33764;
+}
+
+#about .btn-about:hover {
+  background: #f4e2d8;
+}
+
+
+#contact .btn-contact {
+  font-family: "Raleway", sans-serif;
+  text-transform: uppercase;
+  font-weight: 600;
+  font-size: 12px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 12px 40px;
+  border-radius: 50px;
+  transition: 0.5s;
+  margin-top: 30px;
+  color: #fff;
+  background: #c33764;
+}
+
+#contact .btn-contact:hover {
+  background: #f4e2d8;
 }
