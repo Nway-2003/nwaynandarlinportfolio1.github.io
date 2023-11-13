@@ -127,6 +127,7 @@ section {
     margin-top: 30px;
     color: #fff;
     background: #c33764;
+    text-decoration: none;
   }
   
   #hero .btn-about:hover {
@@ -434,6 +435,7 @@ section {
   margin-top: 30px;
   color: #fff;
   background: #c33764;
+  text-decoration: none;
 }
 
 #about .btn-about:hover {
@@ -454,8 +456,36 @@ section {
   margin-top: 30px;
   color: #fff;
   background: #c33764;
+  text-decoration: none;
+  
 }
 
 #contact .btn-contact:hover {
   background: #f4e2d8;
 }
+
+
+
+
+#portfolio .btn-demo {
+  font-family: "Raleway", sans-serif;
+  text-transform: uppercase;
+  font-weight: 600;
+  font-size: 12px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 12px 40px;
+  border-radius: 50px;
+  transition: 0.5s;
+  margin-top: 30px;
+  color: #fff;
+  background: #c33764;
+  text-decoration: none;
+}
+
+#portfolio .btn-demo:hover {
+  background: #f4e2d8;
+}
+
+
+
